@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root {
+		--primary: 65 133 244;
+	}
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
