@@ -14,7 +14,7 @@
 </script>
 
 <section class="relative h-[calc(100svh-3.5rem)] w-full">
-	<enhanced:img class="h-[calc(100svh-3.5rem)]" src="./background.jpg"></enhanced:img>
+	<enhanced:img class="h-[calc(100svh-3.5rem)] object-cover" src="./background.jpg"></enhanced:img>
 
 	<div
 		class="container absolute left-1/2 top-1/2 max-w-max -translate-x-1/2 -translate-y-1/2 rounded-xl bg-gray-500/80 px-12 py-6"
